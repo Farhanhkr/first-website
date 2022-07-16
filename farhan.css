@@ -1,0 +1,23 @@
+
+.hk{
+    background-color:lightskyblue;
+    border: 5px solid yellow;
+    border-radius: 15px;
+    margin: 40px 50px 40px 50px;
+    padding: 2%;
+}
+        .hk p{
+            
+            text-align: justify;
+        }
+        .dark{
+            text-align: center;
+            font-size: 2em;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        h1{
+            text-align: center;
+        }
+        span{
+            color: red;
+ }
